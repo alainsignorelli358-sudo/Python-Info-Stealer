@@ -20,4 +20,4 @@ What you need to use it:
 
 
 The netifaces Module is needed to retrieve Mac Adresses could cause Problems, and uses much Storage, so i would recommend to you to delete the Mac Adress and netifaces Parts in the Code.
--
+- 
